@@ -1,5 +1,5 @@
 
-<h1 align="center"> Zwin haschi li drt a zin</h1>
+<h1 align="center"> Signals and Slots </h1>
 
 <p align="center">
      <img align ="center" width="60%"  higth="60%" src="https://i.ytimg.com/vi/JakMj5XEBoc/maxresdefault.jpg" />
