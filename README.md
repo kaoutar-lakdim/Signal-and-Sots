@@ -1,8 +1,8 @@
 
-<h1 aling="center"> Signal and slots</h1>
+<h1 align="center"> Signal and slots</h1>
 
-<p aling="center">
-     <img aling ="center" width="90" src="https://i.ytimg.com/vi/JakMj5XEBoc/maxresdefault.jpg" />
+<p align="center">
+     <img align ="center" width="60%"  higth="60%" src="https://i.ytimg.com/vi/JakMj5XEBoc/maxresdefault.jpg" />
  </p>
  
 ## Table of contents
@@ -16,8 +16,9 @@
    * [Operation Interaction]("#Operation-Interaction")
    * [Enter Button]("#Enter-Button")
    * [Enhancemtents]("#enhancements")
-   * 
+ 
 * [Traffic Light]("#traffic-light)
 # Calculator
+#### This exercise follows up to add interactive functionality to the calculator widgets written in the previous homework. The goal is to use Signals and Slots to simulate a basic calculator behavior. The supported operations are + , - , / 
 
 
